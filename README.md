@@ -307,8 +307,8 @@ pytest tests/unit/test_visualizers.py
 
 如有任何问题或建议，请通过以下方式联系我们：
 
-- 邮箱：example@domain.com
-- GitHub Issues：https://github.com/yourusername/repository/issues
+- 邮箱：fangrenziliu@gamil.com
+- GitHub Issues：https://github.com/likebal1/SUMO-LLM
 
 ---
 
